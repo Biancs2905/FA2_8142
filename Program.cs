@@ -7,6 +7,7 @@ namespace FA2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World! Lets conquer the day");
+            Console.WriteLine("We are too young to worry ");
         }
     }
 }
